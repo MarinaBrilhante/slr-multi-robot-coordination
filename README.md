@@ -95,7 +95,15 @@ Analysis of the bibliographic data retrieved from the 40 included articles, usin
 <img width="3004" height="1826" alt="co_authorship_13authors" src="https://github.com/user-attachments/assets/9b60fc2f-3350-4bbf-8a45-aec3eb3d4ea3" />
 
 #### Evolution of number of published articles by year
-<img width="1015" height="768" alt="chart_year" src="https://github.com/user-attachments/assets/7d45c617-9afb-4b0c-b152-f852429b946b" />
+![chart_year](https://github.com/user-attachments/assets/d2e05306-299f-43b1-acd3-7a81f2867454)
+
+#### Distribution of quality evaluation scores of the eligible works included in the review. 
+(1) Scores of all eligible works; 
+(2) Scores of works that passed the two rejection criteria applied during the quality assessment phase.
+
+![chart_93](https://github.com/user-attachments/assets/b8f032b1-4a0c-49f9-9938-06944a895798)
+![chart_71](https://github.com/user-attachments/assets/3ec9dd11-4107-4d4a-9ad0-4622c99d3f70)
+
 
 ## License
 
