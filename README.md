@@ -4,7 +4,7 @@ Systematic Literature Review on Robot Fleet Management Systems and Multi-robot C
 
 ## Identification
 
-### Search String
+### Base Search String
 
 ```
 (("robot" OR "agv" OR "amr") AND "fleet" AND "manag*" AND "system")
@@ -31,6 +31,7 @@ Systematic Literature Review on Robot Fleet Management Systems and Multi-robot C
 * [Web of Science](http://www.isiknowledge.com)
   - 271 results
   - Web of Science Core Collection, All fields
+  - Using the Base Search String
   - Last inquiry: May 9, 2025 
 
 
